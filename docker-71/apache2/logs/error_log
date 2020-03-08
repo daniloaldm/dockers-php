@@ -116,3 +116,4 @@ AH00558: httpd: Could not reliably determine the server's fully qualified domain
 AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
 [Sun Mar 08 01:05:24.346322 2020] [mpm_event:notice] [pid 1:tid 139823918556288] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
 [Sun Mar 08 01:05:24.346633 2020] [core:notice] [pid 1:tid 139823918556288] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sun Mar 08 01:22:02.558684 2020] [mpm_event:notice] [pid 1:tid 139823918556288] AH00492: caught SIGWINCH, shutting down gracefully
