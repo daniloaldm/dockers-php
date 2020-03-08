@@ -1,0 +1,24 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 20 14:10:00.212013 2019] [mpm_event:notice] [pid 1:tid 139851824492608] AH00489: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Fri Sep 20 14:10:00.213202 2019] [core:notice] [pid 1:tid 139851824492608] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Sep 20 17:56:52.778020 2019] [mpm_event:notice] [pid 1:tid 139851824492608] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 20 17:57:22.572481 2019] [mpm_event:notice] [pid 1:tid 140401987657792] AH00489: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Fri Sep 20 17:57:22.583322 2019] [core:notice] [pid 1:tid 140401987657792] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Sep 20 17:58:27.246849 2019] [mpm_event:notice] [pid 1:tid 140401987657792] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 22 13:32:19.923145 2019] [mpm_event:notice] [pid 1:tid 140208417030208] AH00489: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Tue Oct 22 13:32:19.924418 2019] [core:notice] [pid 1:tid 140208417030208] AH00094: Command line: 'httpd -D FOREGROUND'
+[Tue Oct 22 18:18:36.133766 2019] [mpm_event:notice] [pid 1:tid 140208417030208] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 23 14:37:02.203896 2019] [mpm_event:notice] [pid 1:tid 139806232449088] AH00489: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Wed Oct 23 14:37:02.204024 2019] [core:notice] [pid 1:tid 139806232449088] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Oct 23 14:37:46.643836 2019] [mpm_event:notice] [pid 1:tid 139806232449088] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 23 14:43:18.851682 2019] [mpm_event:notice] [pid 1:tid 140712236527680] AH00489: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Wed Oct 23 14:43:18.851790 2019] [core:notice] [pid 1:tid 140712236527680] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Oct 23 14:44:31.339604 2019] [mpm_event:notice] [pid 1:tid 140712236527680] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 08 00:57:15.400998 2020] [mpm_event:notice] [pid 1:tid 139876801139840] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Sun Mar 08 00:57:15.414299 2020] [core:notice] [pid 1:tid 139876801139840] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sun Mar 08 01:04:36.111139 2020] [mpm_event:notice] [pid 1:tid 139876801139840] AH00492: caught SIGWINCH, shutting down gracefully

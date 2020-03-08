@@ -1,0 +1,118 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 19 12:44:38.956756 2019] [mpm_event:notice] [pid 1:tid 139924294509696] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Thu Dec 19 12:44:38.956874 2019] [core:notice] [pid 1:tid 139924294509696] AH00094: Command line: 'httpd -D FOREGROUND'
+[Thu Dec 19 17:14:31.230439 2019] [proxy_fcgi:error] [pid 91:tid 139923113895680] (70007)The timeout specified has expired: [client 172.18.0.1:59128] AH01075: Error dispatching request to : (polling), referer: http://projetos.bleez/shopzen2/checkout/
+[Thu Dec 19 17:15:31.307865 2019] [proxy_fcgi:error] [pid 91:tid 139923097110272] (70007)The timeout specified has expired: [client 172.18.0.1:59128] AH01075: Error dispatching request to : (polling), referer: http://projetos.bleez/shopzen2/checkout/
+[Thu Dec 19 17:15:31.311841 2019] [proxy_fcgi:error] [pid 91:tid 139922518308608] (70007)The timeout specified has expired: [client 172.18.0.1:59142] AH01075: Error dispatching request to : (polling), referer: http://projetos.bleez/shopzen2/checkout/
+[Thu Dec 19 17:32:17.135867 2019] [proxy_fcgi:error] [pid 9:tid 139923944347392] (70007)The timeout specified has expired: [client 172.18.0.1:59948] AH01075: Error dispatching request to : (polling), referer: http://projetos.bleez/shopzen2/checkout/
+[Thu Dec 19 17:33:17.215807 2019] [proxy_fcgi:error] [pid 9:tid 139923986310912] (70007)The timeout specified has expired: [client 172.18.0.1:59948] AH01075: Error dispatching request to : (polling), referer: http://projetos.bleez/shopzen2/checkout/
+[Thu Dec 19 21:09:04.264611 2019] [mpm_event:notice] [pid 1:tid 139924294509696] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 11:21:04.805172 2019] [mpm_event:notice] [pid 1:tid 140670334911616] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 11:21:04.806331 2019] [core:notice] [pid 1:tid 140670334911616] AH00094: Command line: 'httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 13:38:53.439731 2019] [mpm_event:notice] [pid 1:tid 140598867539072] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 13:38:53.441302 2019] [core:notice] [pid 1:tid 140598867539072] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 20 13:39:46.494838 2019] [mpm_event:notice] [pid 1:tid 140598867539072] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 13:40:52.803679 2019] [mpm_event:notice] [pid 1:tid 140592477652096] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 13:40:52.804264 2019] [core:notice] [pid 1:tid 140592477652096] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 20 13:49:16.143052 2019] [mpm_event:notice] [pid 1:tid 140592477652096] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 13:49:43.993750 2019] [mpm_event:notice] [pid 1:tid 140600075216000] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 13:49:43.994464 2019] [core:notice] [pid 1:tid 140600075216000] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 20 13:56:19.029282 2019] [mpm_event:notice] [pid 1:tid 140600075216000] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 13:57:15.602603 2019] [mpm_event:notice] [pid 1:tid 139845512508544] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 13:57:15.616255 2019] [core:notice] [pid 1:tid 139845512508544] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 20 14:04:17.462232 2019] [mpm_event:notice] [pid 1:tid 139845512508544] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 14:04:45.489624 2019] [mpm_event:notice] [pid 1:tid 139896761947264] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 14:04:45.502888 2019] [core:notice] [pid 1:tid 139896761947264] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 20 14:05:19.043334 2019] [mpm_event:notice] [pid 1:tid 139896761947264] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 14:06:59.472310 2019] [mpm_event:notice] [pid 1:tid 140641513817216] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 14:06:59.472791 2019] [core:notice] [pid 1:tid 140641513817216] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 20 14:08:22.964659 2019] [mpm_event:notice] [pid 1:tid 140641513817216] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 14:24:35.325663 2019] [mpm_event:notice] [pid 1:tid 140690642973824] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 14:24:35.334281 2019] [core:notice] [pid 1:tid 140690642973824] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 20 16:26:10.053537 2019] [proxy_fcgi:error] [pid 8:tid 140689480337152] [client 172.18.0.3:55862] AH01071: Got error 'Primary script unknown\n'
+[Fri Dec 20 18:12:45.973140 2019] [mpm_event:notice] [pid 1:tid 140690642973824] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 20 18:26:48.742080 2019] [mpm_event:notice] [pid 1:tid 140204873577600] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Dec 20 18:26:48.759920 2019] [core:notice] [pid 1:tid 140204873577600] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 23 17:32:39.520125 2019] [mpm_event:notice] [pid 1:tid 140204873577600] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 02 11:45:20.978582 2020] [mpm_event:notice] [pid 1:tid 139653716382848] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Thu Jan 02 11:45:20.985390 2020] [core:notice] [pid 1:tid 139653716382848] AH00094: Command line: 'httpd -D FOREGROUND'
+[Thu Jan 02 12:11:21.417267 2020] [mpm_event:notice] [pid 1:tid 139653716382848] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 02 12:11:52.325936 2020] [mpm_event:notice] [pid 1:tid 140322132817024] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Thu Jan 02 12:11:52.334343 2020] [core:notice] [pid 1:tid 140322132817024] AH00094: Command line: 'httpd -D FOREGROUND'
+[Thu Jan 02 21:18:02.413897 2020] [mpm_event:notice] [pid 1:tid 140322132817024] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 03 11:19:38.288523 2020] [mpm_event:notice] [pid 1:tid 140505489917056] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Jan 03 11:19:38.305899 2020] [core:notice] [pid 1:tid 140505489917056] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Jan 03 20:02:45.926868 2020] [mpm_event:notice] [pid 1:tid 140505489917056] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 06 12:40:07.356070 2020] [mpm_event:notice] [pid 1:tid 140179107255424] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Mon Jan 06 12:40:07.359720 2020] [core:notice] [pid 1:tid 140179107255424] AH00094: Command line: 'httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 06 16:51:22.946871 2020] [mpm_event:notice] [pid 1:tid 140522247095424] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Mon Jan 06 16:51:22.962650 2020] [core:notice] [pid 1:tid 140522247095424] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Jan 06 20:52:38.621677 2020] [mpm_event:notice] [pid 1:tid 140522247095424] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 07 11:25:53.330812 2020] [mpm_event:notice] [pid 1:tid 140540230812800] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Tue Jan 07 11:25:53.355121 2020] [core:notice] [pid 1:tid 140540230812800] AH00094: Command line: 'httpd -D FOREGROUND'
+[Tue Jan 07 20:18:00.752555 2020] [mpm_event:notice] [pid 1:tid 140540230812800] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 08 12:23:16.114364 2020] [mpm_event:notice] [pid 1:tid 140273624622208] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Wed Jan 08 12:23:16.135132 2020] [core:notice] [pid 1:tid 140273624622208] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Jan 08 19:56:49.544723 2020] [mpm_event:notice] [pid 1:tid 140273624622208] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 08 20:02:02.632343 2020] [mpm_event:notice] [pid 1:tid 139915295728768] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Wed Jan 08 20:02:02.650551 2020] [core:notice] [pid 1:tid 139915295728768] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Jan 08 20:05:29.693542 2020] [mpm_event:notice] [pid 1:tid 139915295728768] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 09 12:45:02.865526 2020] [mpm_event:notice] [pid 1:tid 140690944140416] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Thu Jan 09 12:45:02.885783 2020] [core:notice] [pid 1:tid 140690944140416] AH00094: Command line: 'httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 09 16:14:56.275800 2020] [mpm_event:notice] [pid 1:tid 139805698294912] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Thu Jan 09 16:14:56.299295 2020] [core:notice] [pid 1:tid 139805698294912] AH00094: Command line: 'httpd -D FOREGROUND'
+[Thu Jan 09 20:21:46.345105 2020] [mpm_event:notice] [pid 1:tid 139805698294912] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 10 12:51:15.021112 2020] [mpm_event:notice] [pid 1:tid 139759562695808] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Fri Jan 10 12:51:15.023998 2020] [core:notice] [pid 1:tid 139759562695808] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Jan 10 18:03:47.519713 2020] [mpm_event:notice] [pid 1:tid 139759562695808] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 13 13:30:09.809127 2020] [mpm_event:notice] [pid 1:tid 140426311640192] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Thu Feb 13 13:30:09.810238 2020] [core:notice] [pid 1:tid 140426311640192] AH00094: Command line: 'httpd -D FOREGROUND'
+[Thu Feb 13 14:08:50.518021 2020] [mpm_event:notice] [pid 1:tid 140426311640192] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 17 19:27:27.373374 2020] [mpm_event:notice] [pid 1:tid 140461302428800] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Mon Feb 17 19:27:27.379110 2020] [core:notice] [pid 1:tid 140461302428800] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Feb 17 19:47:39.549350 2020] [mpm_event:notice] [pid 1:tid 140461302428800] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 07 23:57:15.671590 2020] [mpm_event:notice] [pid 1:tid 140604046242944] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Sat Mar 07 23:57:15.707603 2020] [core:notice] [pid 1:tid 140604046242944] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 07 23:59:20.400292 2020] [mpm_event:notice] [pid 1:tid 140604046242944] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 07 23:59:38.530703 2020] [mpm_event:notice] [pid 1:tid 140185593644160] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Sat Mar 07 23:59:38.530921 2020] [core:notice] [pid 1:tid 140185593644160] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 07 23:59:51.623160 2020] [proxy_fcgi:error] [pid 9:tid 140185541412608] [client 172.19.0.1:40612] AH01071: Got error 'Primary script unknown\n'
+[Sat Mar 07 23:59:56.757906 2020] [proxy_fcgi:error] [pid 9:tid 140185575016192] [client 172.19.0.1:40616] AH01071: Got error 'Primary script unknown\n'
+[Sun Mar 08 00:03:14.089857 2020] [mpm_event:notice] [pid 1:tid 140185593644160] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 08 00:03:36.963085 2020] [mpm_event:notice] [pid 1:tid 139702329726080] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Sun Mar 08 00:03:36.963272 2020] [core:notice] [pid 1:tid 139702329726080] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sun Mar 08 00:04:30.184733 2020] [proxy_fcgi:error] [pid 9:tid 139702183122688] [client 172.20.0.1:36840] AH01071: Got error 'Primary script unknown\n'
+[Sun Mar 08 00:04:33.996380 2020] [proxy_fcgi:error] [pid 9:tid 139702174729984] [client 172.20.0.1:36840] AH01071: Got error 'Primary script unknown\n'
+[Sun Mar 08 00:07:06.214249 2020] [mpm_event:notice] [pid 1:tid 139702329726080] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 08 00:07:23.302056 2020] [mpm_event:notice] [pid 1:tid 140084438185088] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Sun Mar 08 00:07:23.302222 2020] [core:notice] [pid 1:tid 140084438185088] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sun Mar 08 00:10:43.534977 2020] [mpm_event:notice] [pid 1:tid 140084438185088] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 08 01:05:24.346322 2020] [mpm_event:notice] [pid 1:tid 139823918556288] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Sun Mar 08 01:05:24.346633 2020] [core:notice] [pid 1:tid 139823918556288] AH00094: Command line: 'httpd -D FOREGROUND'

@@ -1,0 +1,8 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 08 00:18:44.848011 2020] [mpm_event:notice] [pid 1:tid 140316811998336] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Sun Mar 08 00:18:44.848246 2020] [core:notice] [pid 1:tid 140316811998336] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sun Mar 08 00:19:33.637460 2020] [mpm_event:notice] [pid 1:tid 140316811998336] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.23.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 08 00:20:04.907251 2020] [mpm_event:notice] [pid 1:tid 140418914964608] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Sun Mar 08 00:20:04.907482 2020] [core:notice] [pid 1:tid 140418914964608] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sun Mar 08 00:20:21.194176 2020] [mpm_event:notice] [pid 1:tid 140418914964608] AH00492: caught SIGWINCH, shutting down gracefully
