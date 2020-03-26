@@ -1,0 +1,31 @@
+version: '3'
+services:
+    httpd: 
+        image: httpd
+        container_name: httpd
+        ports: 
+            - "80:80"
+        restart: unless-stopped
+        volumes: 
+            - "./apache2/conf:/usr/local/apache2/conf"
+            - "/var/www/html:/usr/local/apache2/htdocs"
+            - "./apache2/logs:/usr/local/apache2/logs"
+        links:
+            - "phpfpm"
+    phpfpm:
+        build:
+            context: ./image/php
+        environment:
+          XDEBUG_CONFIG: remote_host=172.17.0.1
+          PHP_IDE_CONFIG: serverName=localhost        
+        container_name: phpfpm
+        restart: unless-stopped    
+        volumes:
+            - "/var/www/html:/var/www/html"
+            - "./php/php.ini:/usr/local/etc/php/php.ini"
+volumes:
+    folder-sync:
+        driver_opts:
+            type: "nfs"
+            o: addr=172.17.0.1,rw,nolock,hard,nointr,nfsvers=3
+            device: ":/var/www/html"

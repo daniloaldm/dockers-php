@@ -1,0 +1,7 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 26 00:28:39.442837 2020] [mpm_event:notice] [pid 1:tid 139825148621952] AH00489: Apache/2.4.41 (Unix) configured -- resuming normal operations
+[Thu Mar 26 00:28:39.443099 2020] [core:notice] [pid 1:tid 139825148621952] AH00094: Command line: 'httpd -D FOREGROUND'
+[Thu Mar 26 00:38:17.693985 2020] [proxy_fcgi:error] [pid 8:tid 139825121609472] (70007)The timeout specified has expired: [client 172.19.0.1:46376] AH01075: Error dispatching request to : (polling)
+[Thu Mar 26 00:38:21.638048 2020] [proxy_fcgi:error] [pid 7:tid 139825121609472] (70007)The timeout specified has expired: [client 172.19.0.1:46380] AH01075: Error dispatching request to : (polling)
+[Thu Mar 26 00:58:10.730378 2020] [proxy_fcgi:error] [pid 8:tid 139824975558400] (70007)The timeout specified has expired: [client 172.19.0.1:47198] AH01075: Error dispatching request to : (polling), referer: http://projetos.bleez/shopzen23/
+[Thu Mar 26 00:59:13.046984 2020] [proxy_fcgi:error] [pid 8:tid 139824916809472] (70007)The timeout specified has expired: [client 172.19.0.1:47198] AH01075: Error dispatching request to : (polling), referer: http://projetos.bleez/shopzen23/
