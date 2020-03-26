@@ -1,5 +1,14 @@
 # Observaçoes
 
+## Instalação do Docker
+
+Instale o Docker e o docker compose seguindo as documentações:
+
+https://docs.docker.com/install/linux/docker-ce/ubuntu/
+
+https://docs.docker.com/compose/install/
+
+## Observações
 ### docker-mysql
 
 Antes de subir esse container execute:
