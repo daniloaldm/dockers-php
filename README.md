@@ -1,6 +1,4 @@
-# Observaçoes
-
-## Instalação do Docker
+# Instalação do Docker
 
 Instale o Docker e o docker compose seguindo as documentações:
 
